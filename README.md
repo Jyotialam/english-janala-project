@@ -1,3 +1,6 @@
+✅surge live link
+english-janala-by-jyotialam.surge.sh
+
 # ENGLISH <img width="25px" src="./assets/logo.png" /> JANALA
 
 ---
